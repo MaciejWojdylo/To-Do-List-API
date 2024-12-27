@@ -3,7 +3,13 @@ This is my first RESTful with Spring Boot, Spring Data JPA, H2 database
 requirements: 
 - JDK 23
 
-First Run ToDOListApplication
+First Run application in cmd or ide
+
+1. cmd: 
+- go to directory To-Do-List-API
+- paste this command mvnw.cmd spring-boot:run
+  
+2. ide run Application
 
 Adding Post: 
 - Run PowerShell
