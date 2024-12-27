@@ -9,7 +9,8 @@ First Run application in cmd or ide
 - go to directory To-Do-List-API
 - paste this command mvnw.cmd spring-boot:run
   
-2. ide run Application
+2. ide
+- run Application
 
 Adding Post: 
 - Run PowerShell
